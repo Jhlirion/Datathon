@@ -7,7 +7,7 @@ ______
 ______
 ### Analisis de Outliers
 
-#### Outliers de los datos de cantidad alqilado por hora
+#### Outliers de los datos de cantidad alquilado por hora
 ![src\CantOut.png](https://github.com/Jhlirion/Datathon/blob/main/_src/CantOut.png)
 
 #### Outliers de los datos de velocidad de viento por hora
@@ -29,5 +29,9 @@ ________
 # Gráfico linean de los datos
 ![src\img01.png](https://github.com/Jhlirion/Datathon/blob/main/_src/previoA.png)
 
-# Grafico lineal de datos y predicción 
+# Gráfico lineal de datos y predicción 
 ![src\img01.png](https://github.com/Jhlirion/Datathon/blob/main/_src/prdfinA.png)
+
+
+________________
+* [Anális de los datos a profundidad](https://github.com/Jhlirion/Datathon/blob/main/analisis.ipynb)
