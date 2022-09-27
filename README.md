@@ -8,26 +8,26 @@ ______
 ### Analisis de Outliers
 
 #### Outliers de los datos de cantidad alqilado por hora
-![src\CantOut.png](D:\Proyectos\Datathon\_src\CantOut.png)
+![src\CantOut.png](https://github.com/Jhlirion/Datathon/blob/main/_src/CantOut.png)
 
 #### Outliers de los datos de velocidad de viento por hora
-![src\img01.png](https://github.com/Jhlirion/DS-PI-ProyectoIndividual/blob/main/src/img01.png)
+![src\img01.png](https://github.com/Jhlirion/Datathon/blob/main/_src/_src\WinspeedOut.png)
 
 ________
 
 ### Análisis de los datos
 
 #### Datos categoricos
-![src\img01.png](https://github.com/Jhlirion/DS-PI-ProyectoIndividual/blob/main/src/img01.png)
+![src\img01.png](https://github.com/Jhlirion/Datathon/blob/main/_src/_src\corVaCat.png)
 
 #### Datos númericos
-![src\img01.png](https://github.com/Jhlirion/DS-PI-ProyectoIndividual/blob/main/src/img01.png)
+![src\img01.png](https://github.com/Jhlirion/Datathon/blob/main/_src/_src\corVarN.png)
 
-![src\img01.png](https://github.com/Jhlirion/DS-PI-ProyectoIndividual/blob/main/src/img01.png)
+![src\img01.png](https://github.com/Jhlirion/Datathon/blob/main/_src/_src\corVarNb.png)
 
 ________
 # Gráfico linean de los datos
-![src\img01.png](https://github.com/Jhlirion/DS-PI-ProyectoIndividual/blob/main/src/img01.png)
+![src\img01.png](https://github.com/Jhlirion/Datathon/blob/main/_src/_src\previoA.png)
 
 # Grafico lineal de datos y predicción 
-![src\img01.png](https://github.com/Jhlirion/DS-PI-ProyectoIndividual/blob/main/src/img01.png)
+![src\img01.png](https://github.com/Jhlirion/Datathon/blob/main/_src/_src\prdfinA.png)
