@@ -26,7 +26,7 @@ ________
 ![src\img01.png](https://github.com/Jhlirion/Datathon/blob/main/_src/corVarNb.png)
 
 ________
-# Gráfico linean de los datos
+# Gráfico lineal de los datos
 ![src\img01.png](https://github.com/Jhlirion/Datathon/blob/main/_src/previoA.png)
 
 # Gráfico lineal de datos y predicción 
